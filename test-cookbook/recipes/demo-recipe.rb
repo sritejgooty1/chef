@@ -1,0 +1,7 @@
+
+
+
+user 'tej'
+group 'devops'
+
+
